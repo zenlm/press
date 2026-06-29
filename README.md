@@ -1,3 +1,5 @@
+<p align="center"><img src=".github/hero.svg" alt="press" width="880"></p>
+
 # Press Kit
 
 Official press resources and media assets.
